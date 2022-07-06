@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Untitled](README.md)
-* [Page 2](page-2.md)
 
 ## CS&#x20;
 
@@ -9,4 +8,5 @@
 
 ## JavaScript
 
-* [변수](javascript/undefined.md)
+* [변수](javascript/변수.md)
+* [표현식과 문](javascript/표현식과 문.md)
