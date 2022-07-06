@@ -2,7 +2,7 @@
 description: API란 무엇일까?
 ---
 
-# API
+# API
 
 ### API란?
 

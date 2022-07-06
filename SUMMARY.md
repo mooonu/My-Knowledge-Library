@@ -4,7 +4,7 @@
 
 ## CS
 
-* [API](cs/api.md)
+* [API](cs/api.md)
 
 ## programming
 
