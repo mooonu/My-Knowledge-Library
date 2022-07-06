@@ -6,7 +6,8 @@
 
 * [API](cs/api.md)
 
-## JavaScript
+## programming
 
-* [변수](javascript/변수.md)
-* [표현식과 문](<javascript/표현식과 문.md>)
+* [Javascript](programming/javascript/README.md)
+  * [변수](programming/javascript/변수.md)
+  * [표현식과 문](<programming/javascript/표현식과 문.md>)
