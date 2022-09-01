@@ -9,7 +9,7 @@
 ## programming
 
 * [Javascript](programming/javascript/README.md)
-  * [변수](programming/javascript/변수.md)
-  * [표현식과 문](<programming/javascript/표현식과 문.md>)
-  * [데이터 타입](programming/javascript/undefined-2.md)
+  * [variable](programming/javascript/variable.md)
+  * [expression and statement](<programming/javascript/expression and statement.md>)
+  * [data type](<programming/javascript/data type.md>)
 * [Python](programming/python.md)

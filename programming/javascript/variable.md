@@ -1,4 +1,8 @@
-# 변수
+---
+description: 변수
+---
+
+# variable
 
 > 키워드
 >
