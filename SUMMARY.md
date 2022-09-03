@@ -5,6 +5,7 @@
 ## CS
 
 * [API](cs/api.md)
+* [Component](cs/component.md)
 
 ## programming
 
