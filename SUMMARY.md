@@ -13,4 +13,5 @@
   * [variable](programming/javascript/variable.md)
   * [expression and statement](<programming/javascript/expression and statement.md>)
   * [data type](<programming/javascript/data type.md>)
+  * [operator](<programming/javascript/operator.md>)
 * [Python](programming/python.md)

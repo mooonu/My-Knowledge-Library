@@ -4,8 +4,6 @@ description: 데이터 타입
 
 # data type
 
-
-
 > 키워드
 >
 > 원시 타입 (숫자, 문자열, 불리언, undefined, null, symbol)
@@ -32,7 +30,7 @@ var negative = -20; // 음의 정수
 ```javascript
 console.log(10 / 0); // Infinity
 console.log(10 / -0); // -Infinity
-console.log(10 / 'hi') // NaN
+console.log(10 / "hi"); // NaN
 ```
 
 javascript는 대소문자를 구별하므로 NaN 을 NAN, Nan 같이 표현하면 이를 식별자로 해석하여 에러가 발생하니 주의하자.
@@ -43,9 +41,9 @@ javascript는 대소문자를 구별하므로 NaN 을 NAN, Nan 같이 표현하�
 
 ```javascript
 var string;
-string = 'hi';
 string = "hi";
-string = `hi`; // ES6부터 
+string = "hi";
+string = `hi`; // ES6부터
 ```
 
 ### 문자열 타입 (번외) - 템플릿 리터럴
@@ -64,7 +62,7 @@ console.log(str); // hi
 */
 var template = `<ul>
 	<li><a href="#">Home</a></li>
-</ul>`
+</ul>`;
 console.log(template);
 /*
 <ul>
@@ -76,8 +74,8 @@ console.log(template);
 아주 아주 마음에 들고 흥미로운 것은 **표현식을 삽입할 수 있다**는 것이다. !!
 
 ```javascript
-var first = 'SeungHyun';
-var last = 'kim';
+var first = "SeungHyun";
+var last = "kim";
 
 // ES6 표현식 삽입
 console.log(`My name is ${first} ${last}.`);
@@ -86,8 +84,8 @@ console.log(`My name is ${first} ${last}.`);
 
 ### 불리언 타입
 
-* true
-* false
+- true
+- false
 
 ### undefined 타입 과 null 타입
 
@@ -103,24 +101,24 @@ null은 변수에 값이 없다는 것을 의도적으로 명시할 때 사용�
 
 심벌은 ES6에서 추가된 7번째 타입으로, 변경 불가능한 원시 타입의 값이다.
 
-* 이름이 충돌한 위험이 없는 객체의 유일한 프로퍼티 키를 만들기 위해 사용한다.
-* 심벌은 리터럴을 통해 생성하는 것이 아닌 Symbol 함수를 호출해 생성한다.
-* 이때 생성된 심벌 값은 외부에 노출되지 않으며, 절대 중복되지 않는 값이다.
+- 이름이 충돌한 위험이 없는 객체의 유일한 프로퍼티 키를 만들기 위해 사용한다.
+- 심벌은 리터럴을 통해 생성하는 것이 아닌 Symbol 함수를 호출해 생성한다.
+- 이때 생성된 심벌 값은 외부에 노출되지 않으며, 절대 중복되지 않는 값이다.
 
 ```javascript
 // 심벌 값 생성
-var key = Symbol('key');
+var key = Symbol("key");
 console.log(typeof key); // symbol
 
 // 객체 생성
 var obj = {};
 
 // 이름이 충돌할 위험이 없는 값인 심벌을 프로퍼티 키로 사용한다.
-obj[key] = 'value';
-console.log(obj[key]) // value
+obj[key] = "value";
+console.log(obj[key]); // value
 ```
 
-***
+---
 
 아.. 여기 데이터 타입의 필요성 부터는 너무 어렵네 2회차의 나에게 맡긴다 !!
 
