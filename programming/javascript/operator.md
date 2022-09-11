@@ -169,3 +169,47 @@ Object.is(NaN, NaN); // true
 
 Object.is(0, -0); // false
 ```
+
+### 삼항 조건 연산자
+
+> 조건식 ? 조건식이 true일 때 반환할 값 : 조건식이 false일 때 반환할 값
+
+```javascript
+var x = 2;
+
+var result = x > 1 ? "1보다 큽니다" : "1보다 작습니다"; // 1보다 큽니다
+```
+
+만약 조건식의 평가 결과가 불리언 값이 아니면 불리언 값으로 암묵적 타입 변환한다.
+
+```javascript
+var x = 4;
+
+// 1은 true로 암묵적 타입 변환한다.
+var result = x - 3 ? "홀수" : "짝수"; // 홀수
+```
+
+삼항 조건 연산자와 if - else문의 차이
+
+- 조건식의 경우 삼항 조건 연산자는 평가된 값을 사용할 수 있지만 if - else 문은 사용할 수 없다 (값처럼 사용할 수 없다).
+- 수행해야 할 문이 여러개라면 if - else를 아니라면 삼항 조건 연산자를 사용하는 게 가독성이 좋다.
+
+### 논리 연산자
+
+> || 논리합(OR) -> 우항과 좌항의 피연산자가 하나라도 참이라면 참
+> && 논리곱(AND) -> 우항과 좌항의 피연산자가 모두 참이여야 참
+> ! 부정(NOT) -> 불리언 값의 반대 (만약 피연산자가 불리언 값이 아니면 불리언 타입으로 암묵적 타입 변환)
+
+### typeof 연산자
+
+```javascript
+typeof ""; // string
+typeof 3; // number
+typeof NaN; // number
+typeof symbol(); // symbol
+typeof []; // object
+
+// 버그, 주의
+typeof null; // object (만약 null인지 확인할 때는 === 연산자를 사용하자)
+typeof uma; // undefined (선언하지 않은 식별자를 undefined로 반환한다 주의하자.)
+```
