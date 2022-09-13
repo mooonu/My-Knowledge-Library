@@ -83,6 +83,21 @@ result = x--;
 console.log(result, x); // 6, 5
 ```
 
+증감 연산자는 자동으로 세미콜론`;`이 추가되는 대상이 되어서
+예상치 못하게 코드의 흐름을 변경시키며, 의도하지 않은 값의 증가, 감소를 일으키는 등
+애플리케이션 내에서 예상치 못한 에러를 발생시킬 가능성이 있다...고 한다.
+
+eslint에서는 증감 연산자의 대안책으로 **복합 대입 연산자**를 제안하고 있다.
+
+>**복합 대입 연산자**
+>
+>- `+=` : [Addition assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition_assignment)
+>- `-=`: [Subtraction assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Subtraction_assignment)
+>
+>블로그 출처 : https://velog.io/@iamhayoung/JavaScript-%EC%A6%9D%EA%B0%90-%EC%97%B0%EC%82%B0%EC%9E%90-Feat.-%EC%A0%84%EC%9C%84-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%9B%84%EC%9C%84-%EC%97%B0%EC%82%B0%EC%9E%90
+
+
+
 문자열 연결 연산자 또한 독특한데, 타입 강제 변환이 일어난다.
 
 ```javascript
