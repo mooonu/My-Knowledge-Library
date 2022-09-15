@@ -26,7 +26,7 @@ function sum(a, b) {
 
 ### 조건문
 
-- if...else 문
+- **if...else 문**
 
 ```javascript
 if (조건식) {
@@ -48,7 +48,7 @@ if (조건식1) {
 > 만약 코드 블록 내의 문이 하나뿐이라면 중괄호를 생략할 수 있다.
 > if (조건식) break;
 
-- if...else 문을 삼항 조건 연산자로 바꿔 쓰기
+- **if...else 문을 삼항 조건 연산자로 바꿔 쓰기**
 
 ```javascript
 // if...else 문
@@ -81,7 +81,7 @@ if 문의 조건식은 **불리언 값으로 평가되어야하며** 불리언�
 
 ---
 
-- switch 문
+- **switch 문**
 
 논리적 참, 거짓보다는 다양한 상황에 따라 실행될 코드 블록을 결정할 때 사용된다.
 
@@ -99,7 +99,7 @@ switch (표현식) {
 }
 ```
 
-- switch 문 - 폴스루
+- **switch 문 - 폴스루**
 
 ```javascript
 var name = "kim";
@@ -175,7 +175,7 @@ for 문의 실행 순서
 >
 > https://velog.io/@1_doyeon/JavaScript-for%EB%AC%B8-%EC%82%AC%EC%9A%A9%EB%B2%95
 
-![for문실행순서](/Users/looksh/Desktop/for문실행순서.png)
+![for](./img/for.png)
 
 1. 변수 선언문이 실행된다
 2. 변수 선언문의 실행이 종료되면 조건식이 실행된다.
