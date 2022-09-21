@@ -15,4 +15,5 @@
   - [data type](<programming/javascript/data type.md>)
   - [operator](programming/javascript/operator.md)
   - [control flow statement](<programming/javascript/control flow statement.md>)
+  - [type coercion](<programming/javascript/type coercion.md>)
 - [Python](programming/python.md)
