@@ -1,6 +1,6 @@
 # Table of contents
 
-- [thesaurus](README.md)
+- [moonu's archive](README.md)
 
 ## CS
 
