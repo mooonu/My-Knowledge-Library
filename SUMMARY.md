@@ -11,9 +11,12 @@
 ## programming
 
 * [Javascript](programming/javascript/README.md)
-  * [variable](programming/javascript/variable.md)
-  * [expression and statement](<programming/javascript/expression and statement.md>)
-  * [data type](<programming/javascript/data type.md>)
-  * [operator](programming/javascript/operator.md)
-  * [control flow statement](<programming/javascript/control flow statement.md>)
-  * [type coercion](<programming/javascript/type coercion.md>)
+  * [변수](programming/javascript/variable.md)
+  * [표현식과 문](<programming/javascript/expression and statement.md>)
+  * [데이터 타입](<programming/javascript/data type.md>)
+  * [연산자](programming/javascript/operator.md)
+  * [제어문](<programming/javascript/control flow statement.md>)
+  * [타입변환과 단축 평가](<programming/javascript/type coercion.md>)
+  * [객체 리터럴](<programming/javascript/object literal.md>)
+
+- [Python](programming/python/README.md)
