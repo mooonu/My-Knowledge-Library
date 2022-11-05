@@ -20,3 +20,4 @@
   * [객체 리터럴](<programming/javascript/object literal.md>)
 
 - [Python](programming/python/README.md)
+  - [변수와 표현식](<programming/python/variable.md)
