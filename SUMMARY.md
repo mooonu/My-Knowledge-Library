@@ -21,7 +21,7 @@
   * [객체 리터럴](<programming/javascript/object literal.md>)
 
 - [python](programming/python/README.md)
-  - [변수와 표현식](<programming/python/variable.md)
-
+  
 - [java](programming/java/README.md)
   - [변수와 자료형](programming/java/variable.md)
+  - [상수, 리터럴, 형변환](programming/java/constant and literal.md)
