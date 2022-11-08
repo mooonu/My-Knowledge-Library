@@ -23,5 +23,5 @@
 - [python](programming/python/README.md)
   
 - [java](programming/java/README.md)
-  - [변수와 자료형](programming/java/variable.md)
-  - [상수, 리터럴, 형변환](programming/java/constant and literal.md)
+  - [변수와 자료형](<programming/java/variable.md>)
+  - [상수, 리터럴, 형변환](<programming/java/constant and literal.md>)
