@@ -7,7 +7,7 @@
 * [Basic concept](study/basic-concept/README.md)
   * [Component](study/basic-concept/component.md)
   * [API](study/basic-concept/api.md)
-  * [진법](study/basic-concept/number notation.md)
+  * [진법](<study/basic-concept/number notation.md>)
 
 ## programming
 
