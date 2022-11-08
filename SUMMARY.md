@@ -7,10 +7,11 @@
 * [Basic concept](study/basic-concept/README.md)
   * [Component](study/basic-concept/component.md)
   * [API](study/basic-concept/api.md)
+  * [진법](study/basic-concept/number notation.md)
 
 ## programming
 
-* [Javascript](programming/javascript/README.md)
+* [javascript](programming/javascript/README.md)
   * [변수](programming/javascript/variable.md)
   * [표현식과 문](<programming/javascript/expression and statement.md>)
   * [데이터 타입](<programming/javascript/data type.md>)
@@ -19,5 +20,8 @@
   * [타입변환과 단축 평가](<programming/javascript/type coercion.md>)
   * [객체 리터럴](<programming/javascript/object literal.md>)
 
-- [Python](programming/python/README.md)
+- [python](programming/python/README.md)
   - [변수와 표현식](<programming/python/variable.md)
+
+- [java](programming/java/README.md)
+  - [변수와 자료형](programming/java/variable.md)
