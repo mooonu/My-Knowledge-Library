@@ -19,9 +19,15 @@
   * [제어문](<programming/javascript/control flow statement.md>)
   * [타입변환과 단축 평가](<programming/javascript/type coercion.md>)
   * [객체 리터럴](<programming/javascript/object literal.md>)
+* [python](programming/python/README.md)
+* [java](programming/java/README.md)
+  * [변수와 자료형](programming/java/variable.md)
+  * [상수, 리터럴, 형변환](<programming/java/constant and literal.md>)
 
-- [python](programming/python/README.md)
-  
-- [java](programming/java/README.md)
-  - [변수와 자료형](<programming/java/variable.md>)
-  - [상수, 리터럴, 형변환](<programming/java/constant and literal.md>)
+## Jetbrains Academy
+
+* [Kotlin Basics](jetbrains-academy/kotlin-basics/README.md)
+  * [Coffee Machine](jetbrains-academy/kotlin-basics/coffee-machine/README.md)
+    * [Making coffee](jetbrains-academy/kotlin-basics/coffee-machine/making-coffee/README.md)
+      * [Basic literals](jetbrains-academy/kotlin-basics/coffee-machine/making-coffee/basic-literals.md)
+      * [Overview of the basic program](jetbrains-academy/kotlin-basics/coffee-machine/making-coffee/overview-of-the-basic-program.md)
