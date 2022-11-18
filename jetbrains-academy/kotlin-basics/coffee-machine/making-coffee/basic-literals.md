@@ -6,6 +6,8 @@ Regardless of their complexity, all programs essentially perform operations on n
 
 Before we start writing our first programs, let's learn the basic literals in Kotlin: **integer** **numbers**, **characters**, and **strings**. You can meet these literals everywhere in everyday life.
 
+
+
 복잡성에 관계없이 모든 프로그램은 기본적으로 숫자, 문자열 및 기타 값에 대한 작업을 수행합니다. 이러한 값을 **리터럴**이라고 합니다.
 
 첫 번째 프로그램을 쓰기 전에, 코틀린의 기본 리터럴인 **정수 숫자**, **문자**, **문자열**에 대해 배워봅시다. 당신은 일상생활 어디에서나 이러한 리터럴들을 만날 수 있다.

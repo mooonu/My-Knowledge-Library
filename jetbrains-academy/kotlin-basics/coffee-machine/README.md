@@ -4,8 +4,6 @@
 
 This project allows you to better understand the basic OOP, its main concepts such as classes, class methods and attributes, and get a taste of Kotlin. Practice working with functions, challenge yourself with loops and conditions, and get more confident with OOP.
 
-
-
 이 프로젝트는 classes 와 같은 주요 개념,  class 메소드 및 속성을 배우며 OOP 개념에 대해 더 잘 이해할 수 있습니다. 함수를 사용하며 연습하고, 반복문과 조건문을 써보며 OOP 의 자신감을 높이세요.
 
 

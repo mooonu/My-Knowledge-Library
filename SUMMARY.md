@@ -31,3 +31,4 @@
     * [Making coffee](jetbrains-academy/kotlin-basics/coffee-machine/making-coffee/README.md)
       * [Basic literals](jetbrains-academy/kotlin-basics/coffee-machine/making-coffee/basic-literals.md)
       * [Overview of the basic program](jetbrains-academy/kotlin-basics/coffee-machine/making-coffee/overview-of-the-basic-program.md)
+      * [Standard output](jetbrains-academy/kotlin-basics/coffee-machine/making-coffee/standard-output.md)
