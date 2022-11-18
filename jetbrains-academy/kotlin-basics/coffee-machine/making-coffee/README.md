@@ -6,11 +6,4 @@ description: >-
 
 # Making coffee
 
-**음뇸뇸 코-히를 만들어보자**
-
-##
-
-
-
-
-
+Stage 1/6: Making coffee

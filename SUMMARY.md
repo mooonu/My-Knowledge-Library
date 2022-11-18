@@ -32,3 +32,6 @@
       * [Basic literals](jetbrains-academy/kotlin-basics/coffee-machine/making-coffee/basic-literals.md)
       * [Overview of the basic program](jetbrains-academy/kotlin-basics/coffee-machine/making-coffee/overview-of-the-basic-program.md)
       * [Standard output](jetbrains-academy/kotlin-basics/coffee-machine/making-coffee/standard-output.md)
+      * [Work on project](jetbrains-academy/kotlin-basics/coffee-machine/making-coffee/work-on-project.md)
+    * [Ingredient calculator](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/README.md)
+      * [Values and variables](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/values-and-variables.md)
