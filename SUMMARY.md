@@ -35,3 +35,5 @@
       * [Work on project](jetbrains-academy/kotlin-basics/coffee-machine/making-coffee/work-on-project.md)
     * [Ingredient calculator](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/README.md)
       * [Values and variables](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/values-and-variables.md)
+      * [Val variable](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/val-variable.md)
+      * [Data types](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/data-types.md)
