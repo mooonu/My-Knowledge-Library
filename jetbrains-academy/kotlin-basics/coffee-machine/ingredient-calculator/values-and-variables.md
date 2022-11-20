@@ -37,11 +37,17 @@ val language = "Kotlin"
 println(language) // Kotlin
 ```
 
-> 변수를 선언할 때, 이 키워드 중 하나 뒤에 이름을 추가해야 합니다.\
+> 변수를 선언할 때, 이 키워드 중 하나를 이름 앞에 추가해야 합니다.
+>
+> \
 > 조심하세요: 변수 명의 시작은 숫자가 될 수 없습니다. 보통은 문자로 시작합니다.\
 > 당신의 코드를 쉽게 이해할 수 있도록 **읽기 쉽고 의미 있는 변수 명을 지어야 합니다.**
 >
+> ****
+>
 > 변수에 특정 값을 할당하려면 `=` 을 사용하면 됩니다.
+>
+>
 >
 > 이제 변하지 않는 변수 `language` 를 선언하고 그 값을 문자열 `"Kotlin"` 으로 초기화 해봅시다.
 
@@ -52,6 +58,8 @@ This variable cannot be modified after it has been initialized because it was de
 Names are case-sensitive: `language` is not the same as `Language`.
 
 > 이 변수는 `val` 으로 선언되었기 때문에 초기화 후 더 이상 수정할 수 없습니다.
+>
+>
 >
 > 추가로 `language` 와 `Language` 는 전혀 다릅니다 대소문자를 구분하거든요.&#x20;
 
@@ -73,7 +81,11 @@ You do not need to declare a variable again to change its value. Just assign a n
 
 > 이제 변경할 수 있는 변수인 `dayOfWeek` 를 선언하고 값 변경 전과 변경 후를 출력해봅시다.
 >
+>
+>
 > 위 예시를 보면, 우리는 `dayOfWeek` 이름을 가진 변수를 선언했고 `"Monday"` 로 값을 초기화 했습니다. 그다음 변수 이름으로 값에 접근하여 출력했습니다. 이후에는 값을 `"Tuesday"` 로 변경했고 이 새로운 값을 출력했습니다.
+>
+>
 >
 > 변수의 값을 바꿀 때 다시 선언할 필요 없이 `=` 을 사용하여 새로운  값을 할당하면 됩니다.
 
@@ -105,7 +117,9 @@ println(greeting) // prints Hello
 println(firstLetter) // prints A
 ```
 
-> 변수는 문자열, 숫자, 문자 및 기타 데이터 유형과 같은 다양한 유형의 값을 저장할 수 있음을 이미 언급했습니다.
+> 변수는 문자열, 숫자, 문자 및 기타 데이터 유형과 같은 다양한 유형의 값을 저장할 수 있음을 이미 언급했습니다
+>
+> .
 >
 > 이제 불변 변수 세 가지에 각각 숫자, 문자열, 문자를 저장하고 그 값들을 출력해봅시다.
 
@@ -122,6 +136,8 @@ number = "twelve" // an error here!
 Please remember this restriction!
 
 > 가변 변수에는 한 가지 제약이 걸려있는데요, 다시 값을 할당할 때 **초기값과 같은 타입의 값만** 사용이 가능합니다. 따라서 아래 코드는 틀렸습니다: ( "twelve" )
+>
+>
 >
 > **이 제약을 꼭 기억하세요!**
 
