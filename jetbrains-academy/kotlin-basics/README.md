@@ -1,4 +1,10 @@
+---
+description: 번역하면서 하니까 힘들어,, 근데 영어 많이 늘었다 헤헤..
+---
+
 # Kotlin Basics
+
+### [https://hyperskill.org/tracks/18](https://hyperskill.org/tracks/18)
 
 ### What you'll do:
 
