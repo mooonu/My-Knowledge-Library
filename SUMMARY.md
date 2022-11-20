@@ -39,3 +39,4 @@
       * [Data types](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/data-types.md)
       * [Invoking(calling) functions](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/invoking-calling-functions.md)
       * [Standard input](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/standard-input.md)
+      * [The classification of basic types](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/the-classification-of-basic-types.md)
