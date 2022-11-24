@@ -41,3 +41,4 @@
       * [Standard input](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/standard-input.md)
       * [The classification of basic types](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/the-classification-of-basic-types.md)
       * [Type conversion](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/type-conversion.md)
+      * [Reading data with a readln](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/reading-data-with-a-readln.md)
