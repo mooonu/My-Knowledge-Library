@@ -100,9 +100,9 @@ Print any number:
 You printed the number: 56
 ```
 
-In case we need to process a larger number, for example, the cost of a large and luxurious yacht, use the function `toLong()`:
 
 
+큰 수를 처리하려면 `toLong()` 함수를 사용합니다:
 
 ```kotlin
 println("How much is your yacht worth?")
@@ -111,7 +111,7 @@ print("You printed: ")
 print(cost)
 ```
 
-The output is:
+출력 결과:
 
 ```
 How much is your yacht worth?
@@ -121,7 +121,118 @@ You printed: 10000000000
 
 
 
-### toDouble() and toBoolean() 
+### toDouble() and toBoolean()
+
+더 정확한 값을 얻으려면 어떻게 해야할까요? 휘발유 1리터의 값을 정확히 알아내야한다고 가정해보면\
+`toInt()` 나 `toLong()` 은 값을 정수로 반환하니 사용하지 않을 겁니다. 따라서 `toDouble()` 을 사용해야합니다.
+
+```kotlin
+println("Print any double type number:")
+val number = readln().toDouble()
+println("You printed the number: ")
+print(number)
+```
+
+출력 결과:
+
+```
+Print any double type number:
+0.5673421
+You printed the number: 
+0.567342
+```
+
+Boolean 에서도 동일하게 작동됩니다: `toBoolean()`
+
+```kotlin
+println("The earth is flat. Print true or false:")
+val answer = readln().toBoolean()
+print("The earth is flat: ")
+print(answer)
+```
+
+출력 결과:
+
+```
+The earth is flat. Print true or false:
+false
+The earth is flat: false
+```
 
 
+
+### Multiple inputs
+
+여러 입력을 받고 처리하는 게 가능할까요? 당연히 가능합니다: 여러개의 변수를 선언하고 각각의 값으로 `readln()`을 사용합니다.&#x20;
+
+```kotlin
+val a = readln()
+val b = readln().toInt()
+val c = readln()
+print(a)
+print(" ")
+print(b)
+print(" ")
+print(c)
+```
+
+```
+You earned
+100
+points!
+```
+
+
+
+### **Reading multiple values in one line**
+
+한 줄에 두 개의 값을 넣고 싶다면, 다음과 같은 구성을 사용해보세요:
+
+```kotlin
+val (a, b) = readln().split(" ")
+println(a)
+println(b)
+```
+
+입력 예제:
+
+```
+Hello, Kotlin
+```
+
+출력 결과:
+
+```
+Hello,
+Kotlin
+```
+
+여기서의 split 함수는 문자열을 공백으로 잘라서 변수 `a`, `b` 에 저장합니다.
+
+
+
+같은 방법으로, 한 줄당 최대 5개의 값을 읽을 수 있습니다.
+
+```kotlin
+val (a, b, c, d) = readln().split(" ")
+println(a)
+println(b)
+println(c)
+println(d)
+```
+
+입력 예제:
+
+```
+Have a nice Kotlin
+```
+
+출력 예제:
+
+```
+Have
+a
+nice
+Kotlin
+```
 

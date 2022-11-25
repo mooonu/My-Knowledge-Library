@@ -1,4 +1,10 @@
+---
+description: 번역본
+---
+
 # Kotlin Basics
+
+### [https://hyperskill.org/tracks/18](https://hyperskill.org/tracks/18)
 
 ### What you'll do:
 
