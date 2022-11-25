@@ -42,6 +42,8 @@
       * [The classification of basic types](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/the-classification-of-basic-types.md)
       * [Type conversion](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/type-conversion.md)
       * [Reading data with a readln](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/reading-data-with-a-readln.md)
+      * [Arithmetic operations](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/arithmetic-operations.md)
+      * [Type of the numeric expression](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/type-of-the-numeric-expression.md)
 
 ## Design Thinking
 

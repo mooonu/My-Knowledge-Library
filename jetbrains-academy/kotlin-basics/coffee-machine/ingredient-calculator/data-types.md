@@ -60,14 +60,14 @@ greeting = "hello"
 
 ### Type mismatch
 
-데이터 타입의 가장 중요한 기능 중 하나는 부적절한 값을 변수에 할당하지 않도록 보호해줍니다. \
+데이터 타입의 가장 중요한 기능 중 하나는 부적절한 값을 변수에 할당하지 않도록 보호해줍니다. 
 코드가 동작하지 않는 아래 예제를 봅시다:
 
 ```kotlin
 val n: Int = "abc" // Type mismatch: inferred type is String but Int was expected
 ```
 
-`type mismatch` 에러 보셨죠? 이건 변수에 부적절한 값을 할당했음을 의미합니다.\
+`type mismatch` 에러 보셨죠? 이건 변수에 부적절한 값을 할당했음을 의미합니다.
 타입추론으로 선언된 가변 변수에 부적절한 값을 할당하는 경우에도 같은 현상이 발생합니다:
 
 ```kotlin
