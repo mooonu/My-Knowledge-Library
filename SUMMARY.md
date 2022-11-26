@@ -44,6 +44,8 @@
       * [Reading data with a readln](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/reading-data-with-a-readln.md)
       * [Arithmetic operations](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/arithmetic-operations.md)
       * [Type of the numeric expression](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/type-of-the-numeric-expression.md)
+      * [Increment and decrement](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/increment-and-decrement.md)
+      * [Integers in action](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/integers-in-action.md)
 
 ## Design Thinking
 
