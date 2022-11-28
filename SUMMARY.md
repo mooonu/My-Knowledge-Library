@@ -14,10 +14,18 @@
   * [객체 리터럴](<language/javascript/object literal.md>)
 * [Kotlin](language/kotlin/README.md)
   * [변수](language/kotlin/variable.md)
+  * [함수](language/kotlin/function.md)
+  * [흐름제어](language/kotlin/control-flow.md)
+  * [널 안정성](language/kotlin/null-safety.md)
+  * [예외처리](language/kotlin/exception.md)
+  * [클래스와 프로퍼티](language/kotlin/class-and-properties.md)
+  * [상속](language/kotlin/inheritance.md)
+  * [인터페이스](language/kotlin/interface.md)
+  * [열거형](language/kotlin/undefined.md)
 
 ## study
 
-- [Design Thinking](study/design-thinking/page-1.md)
+* [Design Thinking](study/design-thinking/page-1.md)
 
 ## Jetbrains Academy
 
@@ -41,4 +49,3 @@
       * [Type of the numeric expression](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/type-of-the-numeric-expression.md)
       * [Increment and decrement](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/increment-and-decrement.md)
       * [Integers in action](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/integers-in-action.md)
-
