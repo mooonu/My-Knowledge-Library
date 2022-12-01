@@ -42,7 +42,7 @@ fun sum(a: Int, b: Int) {
 
 
 
-- 반환 타입이 없는 경우 Unit이 반환 타입이 된다
+- 반환 타입이 없는 경우 `Unit` 이 반환 타입이 된다
 
 ```kotlin
 fun printSum(a: Int, b: Int): Unit {
