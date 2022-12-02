@@ -99,6 +99,10 @@ Exception in thread "main" java.lang.Exception:
 fun failFast(message: String): Nothing {
   throw IllegalArgumentException(message)
 }
+
+// 표현식임을 보여주는 다른 예제
+val nullableValue: String? = null
+val value = nullableString ?: throw IllegalStateException()
 ```
 
 
@@ -118,7 +122,7 @@ Exception in thread "main" java.lang.IllegalArgumentException: 예외 발생
 */
 ```
 
-> `Nothing` 타입이란?
+> `Nothing` 타입이란? - 아직은 이해하기 어려우니 기초를 더 공부하고 정리하자에용
 
 
 
