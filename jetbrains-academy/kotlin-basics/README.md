@@ -1,5 +1,5 @@
 ---
-description: 번역본
+description: 번역본 - 잠시 업로드 중지
 ---
 
 # Kotlin Basics

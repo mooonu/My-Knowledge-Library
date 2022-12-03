@@ -32,7 +32,7 @@ class Coffee(val name: String)
 
 ```kotlin
 class Coffee(
-	val name: String,
+  val name: String,
   val price: Int, // trailing comma
 ) {
   // ...
