@@ -20,7 +20,7 @@
   * [예외처리](language/kotlin/exception.md)
   * [클래스와 프로퍼티](language/kotlin/class-and-properties.md)
   * [상속](language/kotlin/inheritance.md)
-  * [인터페이스](language/kotlin/interface.md)
+  * [추상클래스 | 인터페이스](language/kotlin/interface.md)
   * [열거형](language/kotlin/undefined.md)
 
 ## study
