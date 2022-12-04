@@ -216,3 +216,34 @@ class MyCart(override var coin: Int) : Cart, Order {
 }
 ```
 
+
+
+## 헷갈리는 나를 위해 - 추상클래스와 인터페이스의 차이점
+
+- 추상클래스와 인터페이스 공통점
+  - 대략적인 설계 명세를 구현
+  - 하위클래스에서 구체화
+
+둘이 하는 역할이 비슷해서 헷갈리니까 이제 차이점을 알아보자 !
+
+```kotlin
+// Abstract classes
+abstract class Student() {
+    val univ: String = "BCU"
+    abstract var age: Int
+    abstract var name: String
+}
+
+// interfaces
+interface Student {
+    // val univ: String = "BCU" // 컴파일 에러
+    var age: Int
+    var name: String
+}
+```
+
+`추상클래스` 에서는 정의와 동시에 초기화도 가능하다 하지만 `인터페이스` 에서는 불가능하다
+
+또한 추상클래스와 다르게 인터페이스를 이용한다면 **다중 상속이 가능**하다
+
+> 더 추가 예정
