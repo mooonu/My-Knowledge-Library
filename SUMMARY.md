@@ -21,7 +21,7 @@
   * [클래스와 프로퍼티](language/kotlin/class-and-properties.md)
   * [상속](language/kotlin/inheritance.md)
   * [추상클래스 | 인터페이스](language/kotlin/interface.md)
-  * [열거형](language/kotlin/undefined.md)
+  * [열거형](language/kotlin/enum.md)
 
 ## study
 
@@ -49,3 +49,4 @@
       * [Type of the numeric expression](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/type-of-the-numeric-expression.md)
       * [Increment and decrement](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/increment-and-decrement.md)
       * [Integers in action](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/integers-in-action.md)
+      * [Work on project](jetbrains-academy/kotlin-basics/coffee-machine/ingredient-calculator/work-on-project.md)
