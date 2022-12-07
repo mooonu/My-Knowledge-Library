@@ -25,7 +25,7 @@
 
 ## study
 
-* [Design Thinking](study/design-thinking/page-1.md)
+* [Design Thinking](study/design-thinking/README.md)
 
 ## Jetbrains Academy
 
