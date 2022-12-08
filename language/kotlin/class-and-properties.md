@@ -43,7 +43,7 @@ class Coffee(
 
 * 후행 쉼표를 사용하고 diff
 
-<img src="https://user-images.githubusercontent.com/86511086/205248380-4a0f87cb-d561-469f-a38b-4ede7808f25f.png" alt="history" data-size="original">
+![after](https://user-images.githubusercontent.com/86511086/205248380-4a0f87cb-d561-469f-a38b-4ede7808f25f.png)
 
 * 후행 쉼표를 사용하지 않고 diff
 

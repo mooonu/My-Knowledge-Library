@@ -13,6 +13,77 @@ var age: Int = 23
 
 
 
+- **val** 는 값이 `런타임` 에 결정된다
+
+재할당하는 것은 금지되어 있지만, 다른 방법으로 내용을 수정할 수 있음
+
+```kotlin
+// 런타임 결정 예시
+fun sum(a: Int, b: Int) = a + b
+
+fun main() {
+		val num = sum(40, 20)
+  	println(num)
+}
+
+// 내부 상태 변경 예시
+fun main() {
+    val myMutableList = mutableListOf(1, 2, 3, 4 ,5)
+    println(myMutableList) // [1, 2, 3, 4, 5]
+    myMutableList.add(100)
+    println(myMutableList) // [1, 2, 3, 4, 5, 6]
+}
+```
+
+
+
+- kotlin 에는 **const** 수식어도 있는데 이는 값이 `컴파일` 에 결정
+
+제약조건 1 : String 또는 원시 타입의 변수만 적용이 가능함
+
+```kotlin
+const val CONST_INT = 127
+const val CONST_DOUBLE = 3.14
+const val CONST_ARRAY = arrayOf(1, 2, 3) // error: only primitives and strings are allowed
+```
+
+
+
+제약조건 2 : 함수 외부의 탑-레벨에서 선언되어야 함
+
+```kotlin
+const val MY_INT_1 = 1024 // correct line
+
+fun main() {
+    const val MY_INT_2 = 2048 // error: Modifier 'const' is not applicable to 'local variable'
+}
+```
+
+
+
+하지만 클래스 내에서 사용하려면 `companion object` 에 선언해야함
+
+``` kotlin
+class Constant() {
+    companion object {
+        const val PI: Double = 3.14
+        const val NAME: String = "김승현"
+    }
+}
+
+fun main() {
+    val constant = Constant()
+    println(constant.NAME) // error
+  
+  	println(Constant.NAME) // 김승현 
+}
+/*
+const val의 경우 컴파일 시에 데이터가 메모리에 존재하기 때문에, 사용 시 객체를 생성해서 이에 접근하는 것이 아니고, 클래스명.상수명의 형태를 사용해서 직접 접근
+*/
+```
+
+
+
 - **var** 의 규칙 - 초기 값과 같은 타입의 값만 사용 가능 (타입 고정)
 
 ```kotlin
