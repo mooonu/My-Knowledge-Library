@@ -22,6 +22,7 @@
   * [상속](language/kotlin/inheritance.md)
   * [추상클래스 | 인터페이스](language/kotlin/interface.md)
   * [열거형](language/kotlin/enum.md)
+  * [컬렉션](language/kotlin/collection.md)
 
 ## study
 
