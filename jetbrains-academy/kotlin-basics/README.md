@@ -1,5 +1,5 @@
 ---
-description: 번역본 - 잠시 업로드 중지
+description: 번역본
 ---
 
 # Kotlin Basics
@@ -23,8 +23,6 @@ What you will do:
 
 Ready to get your feet wet? Select the track and start your journey!
 
-
-
 이 트랙에서, 당신은 언어의 문법, 개념 및 라이브러리 뿐만 아니라 OOP에 대해서 익숙해질 것 입니다.\
 그리고 실제 프로젝트를 진행하며 Kotlin 코드의 단순함, 명확함, 그리고 아름다움에 대해서 배울 것입니다.\
 What you will do:
@@ -41,6 +39,3 @@ What you will do:
 * 파일시스템이 작동하는 원리를 배웁니다.
 
 발을 적실 준비가 되었나요? 트랙을 선택하고 여행을 시작하세요 !
-
-
-
