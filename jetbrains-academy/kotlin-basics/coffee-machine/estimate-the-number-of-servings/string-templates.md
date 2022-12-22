@@ -6,7 +6,7 @@
 
 오늘의 온도에 대한 메시지를 표시해야한다고 가정해봅시다:
 
-```no-highlight
+```
 Now, the temperature in ... is ... degrees Celsius.
 ```
 
@@ -34,7 +34,7 @@ println("Now, the temperature in $city is $temp degrees Celsius.")
 
 더욱 코드를 읽기 쉬워졌고 위와 동일한 메시지를 출력합니다.
 
-```no-highlight
+```
 Now, the temperature in Paris is 24 degrees Celsius.
 ```
 
@@ -45,8 +45,6 @@ val value = "55"
 val currency = "dollars"
 val price = "$value $currency" // "55 dollars"
 ```
-
-
 
 ## Templates for expressions
 
@@ -59,23 +57,20 @@ println("$language has ${language.length} letters in the name")
 
 결과:
 
-```no-highlight
+```
 Kotlin has 6 letters in the name
 ```
 
-`language.length` 은 평가될 표현식입니다. 만약 중괄호를 적지 않는다면 다른 값이 출력됩니다:
+`language.length` 은 평가될 식입니다. 만약 중괄호를 적지 않는다면 다른 값이 출력됩니다:
 
-```no-highlight
+```
 Kotlin has Kotlin.length letters in the name
 ```
 
 따라서 실수를 피하기 위해서는 문자열 템플릿안의 표현식에 중괄호를 항상 사용해야합니다. 변수 값만 출력하려면 중괄호를 추가하지 마세요
 
-
-
 ## Idiom
 
-> 프로그래밍에서 관용구(Idiom)는 자주 사용하는 코드 형태나 패턴입니다
-> 관례 라고도 할 수 있습니다. (내 의견)
+> 프로그래밍에서 관용구(Idiom)는 자주 사용하는 코드 형태나 패턴입니다 관례 라고도 할 수 있습니다. (내 의견)
 
 더 자세한 내용은 [여기](https://kotlinlang.org/docs/idioms.html)에서 확인할 수 있습니다.

@@ -54,6 +54,7 @@
     * [Estimate the number of servings](jetbrains-academy/kotlin-basics/coffee-machine/estimate-the-number-of-servings/README.md)
       * [String basics](jetbrains-academy/kotlin-basics/coffee-machine/estimate-the-number-of-servings/string-basics.md)
       * [String templates](jetbrains-academy/kotlin-basics/coffee-machine/estimate-the-number-of-servings/string-templates.md)
+      * [Boolean and logical operations](jetbrains-academy/kotlin-basics/coffee-machine/estimate-the-number-of-servings/boolean-and-logical-operations.md)
       * [Relational operators](jetbrains-academy/kotlin-basics/coffee-machine/estimate-the-number-of-servings/relational-operators.md)
       * [If expression](jetbrains-academy/kotlin-basics/coffee-machine/estimate-the-number-of-servings/if-expression.md)
       * [Work on project](jetbrains-academy/kotlin-basics/coffee-machine/estimate-the-number-of-servings/work-on-project.md)
