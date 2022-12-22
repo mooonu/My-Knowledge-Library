@@ -112,6 +112,14 @@ println(charPlusStringPlusInt) // abc123
 print("Hello".repeat(4)) // HelloHelloHelloHello
 ```
 
+새로운 줄에 반복하고 싶다면:
+
+```kotlin
+repeat(3) {
+	println("Hello")
+}
+```
+
 
 
 ## Raw string
