@@ -1,9 +1,5 @@
 # Comments
 
-Here comes a comet... Oh, sorry, a comment – brief but enlightening. So, what exactly are those comments and what do we need them for? Well, essentially, that's what we call a special text that will be ignored by the compiler. Comments allow you to clarify a piece of code or exclude it from the compilation process (that is, disable it). Throughout this course, we will use comments to explain how and why our code works.
-
-There are three kinds of comments in Kotlin. Let's take a look at them.
-
 ## End-of-line comments
 
 컴파일러는 `//` 에서 줄 끝까지의 텍스트를 무시합니다.
