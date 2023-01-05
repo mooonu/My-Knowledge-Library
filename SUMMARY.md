@@ -65,7 +65,7 @@
       * [Comments](jetbrains-academy/kotlin-basics/coffee-machine/buy-fill-take/comments.md)
       * [Coding style convetions](jetbrains-academy/kotlin-basics/coffee-machine/buy-fill-take/coding-style-convetions.md)
       * [Naming variables](jetbrains-academy/kotlin-basics/coffee-machine/buy-fill-take/naming-variables.md)
-      * [Declaring funtions](jetbrains-academy/kotlin-basics/coffee-machine/buy-fill-take/declaring-funtions.md)
+      * [Declaring functions](jetbrains-academy/kotlin-basics/coffee-machine/buy-fill-take/declaring-functions.md)
       * [Ranges](jetbrains-academy/kotlin-basics/coffee-machine/buy-fill-take/ranges.md)
       * [When expression](jetbrains-academy/kotlin-basics/coffee-machine/buy-fill-take/when-expression.md)
       * [Work on project](jetbrains-academy/kotlin-basics/coffee-machine/buy-fill-take/work-on-project.md)
