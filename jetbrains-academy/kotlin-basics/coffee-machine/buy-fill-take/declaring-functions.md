@@ -1,4 +1,4 @@
-# Declaring funtions
+# Declaring functions
 
 ## Program decomposition
 
