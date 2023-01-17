@@ -74,8 +74,6 @@
       * [While loops](jetbrains-academy/kotlin-basics/coffee-machine/keep-track-of-the-supplies/while-loops.md)
       * [Work on project](jetbrains-academy/kotlin-basics/coffee-machine/keep-track-of-the-supplies/work-on-project.md)
     * [Brush up your code](jetbrains-academy/kotlin-basics/coffee-machine/brush-up-your-code/README.md)
-      * [Paradigms](jetbrains-academy/kotlin-basics/coffee-machine/brush-up-your-code/paradigms.md)
-      * [Introduction to OOP](jetbrains-academy/kotlin-basics/coffee-machine/brush-up-your-code/introduction-to-oop.md)
       * [Objects](jetbrains-academy/kotlin-basics/coffee-machine/brush-up-your-code/objects.md)
       * [Declaring classes](jetbrains-academy/kotlin-basics/coffee-machine/brush-up-your-code/declaring-classes.md)
       * [Functional decomposition](jetbrains-academy/kotlin-basics/coffee-machine/brush-up-your-code/functional-decomposition.md)
