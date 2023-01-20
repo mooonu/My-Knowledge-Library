@@ -78,7 +78,7 @@
       * [Declaring classes](jetbrains-academy/kotlin-basics/coffee-machine/brush-up-your-code/declaring-classes.md)
       * [Functional decomposition](jetbrains-academy/kotlin-basics/coffee-machine/brush-up-your-code/functional-decomposition.md)
       * [Default arguments](jetbrains-academy/kotlin-basics/coffee-machine/brush-up-your-code/default-arguments.md)
-      * [Names arguments](jetbrains-academy/kotlin-basics/coffee-machine/brush-up-your-code/names-arguments.md)
+      * [Named arguments](jetbrains-academy/kotlin-basics/coffee-machine/brush-up-your-code/names-arguments.md)
       * [Constructors](jetbrains-academy/kotlin-basics/coffee-machine/brush-up-your-code/constructors.md)
       * [Member functions](jetbrains-academy/kotlin-basics/coffee-machine/brush-up-your-code/member-functions.md)
       * [Enum](jetbrains-academy/kotlin-basics/coffee-machine/brush-up-your-code/enum.md)
