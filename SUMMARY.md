@@ -28,6 +28,12 @@
 
 ## study
 
+* [Spring Boot](study/spring-boot/README.md)
+  * [REST API](study/spring-boot/rest-api/README.md)
+    * [GET](study/spring-boot/rest-api/get.md)
+    * [POST](study/spring-boot/rest-api/post.md)
+    * [PUT](study/spring-boot/rest-api/put.md)
+    * [DELETE](study/spring-boot/rest-api/delete.md)
 * [Design Thinking](study/design-thinking/README.md)
 
 ## Jetbrains Academy
