@@ -211,3 +211,21 @@ class GetApiController {
     }
 }
 ```
+
+
+
+- map 을 활용한 방법
+
+```kotlin
+@RestController
+@RequestMapping("/api") // http://localhost:8080/api
+class GetApiController {
+
+    @GetMapping("/get-mapping/query-param/map")
+    fun queryParamMap(@RequestParam map: Map<String, Any>): Map<String, Any> {
+        println(map)
+        return map
+    }
+}
+```
+
