@@ -214,7 +214,7 @@ class GetApiController {
 
 
 
-- map 을 활용한 방법
+- **map 을 활용한 방법 **( RequestParam 과 동일함 다만 받는 방법이 다를 뿐 )
 
 ```kotlin
 @RestController
