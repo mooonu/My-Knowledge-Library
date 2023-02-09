@@ -75,8 +75,7 @@ object -> json 으로 변환해주는 라이브러리
    - `@JsonNaming(PropertyNamingStrategy.SnakeCaseStrategy::class)` 어노테이션
      해당 클래스는 snake_case 로 작동할 거야 라는 것을 알려줌
 
-     ```kotlin
-     이거 Deprecated 되버렸음 ..
-     ```
-
      
+     
+   - 위의 방법의 대안으로
+     `@JsonNaming(PropertyNamingStrategies.SnakeCaseStrategy::class)` 어노테이션을 사용하면 됌
