@@ -15,7 +15,7 @@ var age: Int = 23
 
 - **val** 는 값이 `런타임` 에 결정된다
 
-재할당하는 것은 금지되어 있지만, 다른 방법으로 내용을 수정할 수 있음
+재할당하는 것은 금지되어 있지만, 다른 방법으로 내용을 수정할 수 있음 즉 **내부 상태는 변경할 수 있다.**
 
 ```kotlin
 // 런타임 결정 예시
@@ -31,15 +31,19 @@ fun main() {
     val myMutableList = mutableListOf(1, 2, 3, 4 ,5)
     println(myMutableList) // [1, 2, 3, 4, 5]
     myMutableList.add(100)
-    println(myMutableList) // [1, 2, 3, 4, 5, 6]
+    println(myMutableList) // [1, 2, 3, 4, 5, 100]
 }
 ```
+
+위처럼 변수 자체의 값을 바꾸는 것이 아닌 변수가 나타내는 List의 상태를 변경함.
 
 
 
 - kotlin 에는 **const** 수식어도 있는데 이는 값이 `컴파일` 에 결정
 
-제약조건 1 : String 또는 원시 타입의 변수만 적용이 가능함
+
+
+`const` 가 적용되기 위한 제약조건 1 : String 또는 원시 타입의 변수만 적용이 가능함
 
 ```kotlin
 const val CONST_INT = 127
@@ -97,8 +101,9 @@ number = "twelve" // error
 - 타입 생략 (타입 추론)
 
 ```kotlin
-val text = "Hello, I am studying Kotlin now."
-val n = 1
+val/var identifier = initialization
+
+val name = "moonu"
 ```
 
 
