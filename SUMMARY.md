@@ -15,6 +15,7 @@
     * [객체 리터럴](language/javascript/basics/object-literal.md)
 * [Kotlin](language/kotlin/README.md)
   * [Basics](language/kotlin/basics/README.md)
+    * [etc](language/kotlin/basics/etc.md)
     * [변수](language/kotlin/basics/variable.md)
     * [함수](language/kotlin/basics/function.md)
     * [흐름제어](language/kotlin/basics/control-flow.md)
