@@ -218,6 +218,35 @@ a uniform (o)
 
 3. 가산명사 & 불가산명사
 
+> 가산명사: 세는 게 가능한 명사
+> 불가산명사: 세는 게 불가능한 명사 (항상 단수 취급)
+
+- 가산명사가 주어일 때
+
+  1. 먼저 단수인지 복수인지 확인
+
+  2. **주어가 단수일 때** 3인칭 단수로 이해하고 a/an/the 를 붙이고 동사에 -s/es 를 붙힌다.
+
+     **A** baby is sleep**s**.
+     **An** actor **is** coming.
+     **The** guy hate**s** cookies.
+
+  3. **주어가 복수일 때** 명사 바로 뒤에 -s/es 를 붙여 복수명사를 만들고 동사에는 아무것도 붙히지 않음
+     Your shoe**s** look so comfortable.
+     My parent**s** make a lot of money.
+     Some boy**s** cook very well.
+
+
+
+- 불가산명사가 주어일 때
+  1. 항상 단수로 취급
+  2. 셀 수 없는 명사이므로 단수라도 a/an 같은 관사나 one/every 같은 단수 가산형용사, 즉 한정사는 사용하지 않음 하지만 3인칭 단수이니 동사에 -s/es 를 붙힌다.
+     Iron react**s** with water and air to produce rust.
+
+
+
+
+
 
 
 
