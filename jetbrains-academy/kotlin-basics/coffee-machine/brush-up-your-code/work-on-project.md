@@ -1,6 +1,6 @@
 # Work on project
 
-##### Description
+**Description**
 
 Let's redesign our program and write a class that represents a coffee machine. The class should have a method that takes a string as input. Every time the user inputs a string to the console, the program invokes this method with one argument: the line that the user inputs to the console. This system simulates pretty accurately how real-world electronic devices work. External components (like buttons on the coffee machine or tapping on the screen) generate events that pass into the single interface of the program.
 
@@ -12,20 +12,19 @@ The right solution to this problem is to store the current state of the machine.
 
 Remember, that:
 
-- For the espresso, the coffee machine needs 250 ml of water and 16 g of coffee beans. It costs $4.
-- For the latte, the coffee machine needs 350 ml of water, 75 ml of milk, and 20 g of coffee beans. It costs $7.
-- And for the cappuccino, the coffee machine needs 200 ml of water, 100 ml of milk, and 12 g of coffee. It costs $6.
+* For the espresso, the coffee machine needs 250 ml of water and 16 g of coffee beans. It costs $4.
+* For the latte, the coffee machine needs 350 ml of water, 75 ml of milk, and 20 g of coffee beans. It costs $7.
+* And for the cappuccino, the coffee machine needs 200 ml of water, 100 ml of milk, and 12 g of coffee. It costs $6.
 
-##### Objective
+**Objective**
 
 Your final task is to refactor the program. Make it so that you can communicate with the coffee machine through a single method.
 
-##### Example
+**Example**
 
-Your coffee machine should have the same initial resources as in the example (*400 ml* of water, *540 ml* of milk, *120 g* of coffee beans, *9* disposable cups, *$550* in cash).
-The greater-than symbol followed by a space (`> `) represents the user input. Note that it's not part of the input.
+Your coffee machine should have the same initial resources as in the example (_400 ml_ of water, _540 ml_ of milk, _120 g_ of coffee beans, _9_ disposable cups, _$550_ in cash). The greater-than symbol followed by a space (`>` ) represents the user input. Note that it's not part of the input.
 
-```no-highlight
+```
 Write action (buy, fill, take, remaining, exit):
 > remaining
 
@@ -117,8 +116,6 @@ $0 of money
 Write action (buy, fill, take, remaining, exit):
 > exit
 ```
-
-
 
 My code:
 
@@ -234,4 +231,3 @@ fun main() {
     }
 }
 ```
-

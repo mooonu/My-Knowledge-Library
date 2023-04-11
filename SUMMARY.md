@@ -26,6 +26,8 @@
     * [열거형](language/kotlin/basics/enum.md)
     * [컬렉션](language/kotlin/basics/collection.md)
     * [널 안정성](language/kotlin/basics/null-safety.md)
+* [Dart](language/dart/README.md)
+  * [Class](language/dart/class.md)
 
 ## study
 
@@ -35,7 +37,7 @@
     * [POST](study/spring-boot/rest-api/post.md)
     * [PUT](study/spring-boot/rest-api/put.md)
     * [DELETE](study/spring-boot/rest-api/delete.md)
-* [Design Thinking](study/design-thinking/README.md)
+* [Design Thinking](study/design-thinking.md)
 * [English](study/english/README.md)
   * [문법](study/english/grammer.md)
 

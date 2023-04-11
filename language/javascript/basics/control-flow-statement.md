@@ -171,7 +171,7 @@ for 문의 실행 순서
 >
 > https://velog.io/@1\_doyeon/JavaScript-for%EB%AC%B8-%EC%82%AC%EC%9A%A9%EB%B2%95
 
-![for](../img/for.png)
+![for](../../../.gitbook/assets/for.png)
 
 1. 변수 선언문이 실행된다
 2. 변수 선언문의 실행이 종료되면 조건식이 실행된다.
