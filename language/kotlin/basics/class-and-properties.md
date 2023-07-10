@@ -74,7 +74,7 @@ fun main() {
 
 ## getter, setter
 
-* Kotlin 은 var 로 선언된 프로퍼티는 `getter` 와 `setter` 를 자동으로 생성한다 ( 디컴파일 해보면 존재함 )
+* Kotlin 은 var 로 선언된 프로퍼티는 `getter` 와 `setter` 를 자동으로 생성한다 ( 디컴파일 해보면 존재함 ).
 * 아래 코드는 필드의 `setter` 를 사용해 값을 할당
 
 ```kotlin
