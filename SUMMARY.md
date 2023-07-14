@@ -26,8 +26,6 @@
     * [열거형](language/kotlin/basics/enum.md)
     * [컬렉션](language/kotlin/basics/collection.md)
     * [널 안정성](language/kotlin/basics/null-safety.md)
-* [Dart](language/dart/README.md)
-  * [Class](language/dart/class.md)
 
 ## study
 
