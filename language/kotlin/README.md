@@ -1,3 +1,3 @@
 # Kotlin
 
-코딱지
+kotlin
