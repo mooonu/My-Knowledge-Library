@@ -13,6 +13,7 @@
     * [제어문](language/javascript/basics/control-flow-statement.md)
     * [타입변환과 단축 평가](language/javascript/basics/type-coercion.md)
     * [객체 리터럴](language/javascript/basics/object-literal.md)
+  * [메모](language/javascript/undefined.md)
 * [Kotlin](language/kotlin/README.md)
   * [Basics](language/kotlin/basics/README.md)
     * [etc](language/kotlin/basics/etc.md)
